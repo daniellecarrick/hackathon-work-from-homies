@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hackathon-work-from-homies/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/hackathon-work-from-homies/static/js/main.3310a745.chunk.js",
-    "main.js.map": "/hackathon-work-from-homies/static/js/main.3310a745.chunk.js.map",
+    "main.js": "/hackathon-work-from-homies/static/js/main.af76953b.chunk.js",
+    "main.js.map": "/hackathon-work-from-homies/static/js/main.af76953b.chunk.js.map",
     "runtime-main.js": "/hackathon-work-from-homies/static/js/runtime-main.bad0fdd2.js",
     "runtime-main.js.map": "/hackathon-work-from-homies/static/js/runtime-main.bad0fdd2.js.map",
     "static/js/2.6093be7e.chunk.js": "/hackathon-work-from-homies/static/js/2.6093be7e.chunk.js",
@@ -17,12 +17,14 @@
     "static/media/anuj.f471dcd1.png": "/hackathon-work-from-homies/static/media/anuj.f471dcd1.png",
     "static/media/danielle.d8a022c5.png": "/hackathon-work-from-homies/static/media/danielle.d8a022c5.png",
     "static/media/header.4f954fae.jpg": "/hackathon-work-from-homies/static/media/header.4f954fae.jpg",
-    "static/media/narcisa.0ecf29d5.png": "/hackathon-work-from-homies/static/media/narcisa.0ecf29d5.png"
+    "static/media/narcisa.0ecf29d5.png": "/hackathon-work-from-homies/static/media/narcisa.0ecf29d5.png",
+    "static/media/siva.933925cd.png": "/hackathon-work-from-homies/static/media/siva.933925cd.png",
+    "static/media/suresh.cfbd49ae.png": "/hackathon-work-from-homies/static/media/suresh.cfbd49ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bad0fdd2.js",
     "static/js/2.6093be7e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3310a745.chunk.js"
+    "static/js/main.af76953b.chunk.js"
   ]
 }
