@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hackathon-work-from-homies/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/hackathon-work-from-homies/static/js/main.83bc40aa.chunk.js",
-    "main.js.map": "/hackathon-work-from-homies/static/js/main.83bc40aa.chunk.js.map",
-    "runtime-main.js": "/hackathon-work-from-homies/static/js/runtime-main.7760923a.js",
-    "runtime-main.js.map": "/hackathon-work-from-homies/static/js/runtime-main.7760923a.js.map",
-    "static/js/2.fb2cfb09.chunk.js": "/hackathon-work-from-homies/static/js/2.fb2cfb09.chunk.js",
-    "static/js/2.fb2cfb09.chunk.js.map": "/hackathon-work-from-homies/static/js/2.fb2cfb09.chunk.js.map",
-    "static/js/3.e8879c7d.chunk.js": "/hackathon-work-from-homies/static/js/3.e8879c7d.chunk.js",
-    "static/js/3.e8879c7d.chunk.js.map": "/hackathon-work-from-homies/static/js/3.e8879c7d.chunk.js.map",
+    "main.js": "/hackathon-work-from-homies/static/js/main.3310a745.chunk.js",
+    "main.js.map": "/hackathon-work-from-homies/static/js/main.3310a745.chunk.js.map",
+    "runtime-main.js": "/hackathon-work-from-homies/static/js/runtime-main.bad0fdd2.js",
+    "runtime-main.js.map": "/hackathon-work-from-homies/static/js/runtime-main.bad0fdd2.js.map",
+    "static/js/2.6093be7e.chunk.js": "/hackathon-work-from-homies/static/js/2.6093be7e.chunk.js",
+    "static/js/2.6093be7e.chunk.js.map": "/hackathon-work-from-homies/static/js/2.6093be7e.chunk.js.map",
+    "static/js/3.6b89e3eb.chunk.js": "/hackathon-work-from-homies/static/js/3.6b89e3eb.chunk.js",
+    "static/js/3.6b89e3eb.chunk.js.map": "/hackathon-work-from-homies/static/js/3.6b89e3eb.chunk.js.map",
     "index.html": "/hackathon-work-from-homies/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/hackathon-work-from-homies/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.fb2cfb09.chunk.js.LICENSE.txt": "/hackathon-work-from-homies/static/js/2.fb2cfb09.chunk.js.LICENSE.txt",
+    "static/js/2.6093be7e.chunk.js.LICENSE.txt": "/hackathon-work-from-homies/static/js/2.6093be7e.chunk.js.LICENSE.txt",
     "static/media/Tourney-Black.16a194a0.ttf": "/hackathon-work-from-homies/static/media/Tourney-Black.16a194a0.ttf",
     "static/media/Tourney-Thin.ef594841.ttf": "/hackathon-work-from-homies/static/media/Tourney-Thin.ef594841.ttf",
     "static/media/anuj.f471dcd1.png": "/hackathon-work-from-homies/static/media/anuj.f471dcd1.png",
@@ -20,9 +20,9 @@
     "static/media/narcisa.0ecf29d5.png": "/hackathon-work-from-homies/static/media/narcisa.0ecf29d5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7760923a.js",
-    "static/js/2.fb2cfb09.chunk.js",
+    "static/js/runtime-main.bad0fdd2.js",
+    "static/js/2.6093be7e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.83bc40aa.chunk.js"
+    "static/js/main.3310a745.chunk.js"
   ]
 }
