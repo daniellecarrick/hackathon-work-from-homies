@@ -7,6 +7,9 @@ const styles = {
   fullWidth: {
     width: "100%",
   },
+  flex: {
+    display: 'flex'
+  }
 };
 const Form = ({ classes }) => {
   return (
@@ -18,7 +21,7 @@ const Form = ({ classes }) => {
       noValidate
       autoComplete="off"
     >
-      <div>
+      <div className={classes.flex}>
         <p>Contact Info</p>
         <TextField
           id="outlined-number"

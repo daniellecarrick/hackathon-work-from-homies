@@ -2,6 +2,7 @@ import React from "react";
 import withStyles from "react-jss";
 import narcisa from "../assets/images/narcisa.png";
 import danielle from "../assets/images/danielle.png";
+import anuj from "../assets/images/anuj.png";
 
 const styles = {
   mentor: {
@@ -10,9 +11,11 @@ const styles = {
     flexDirection: "column",
     margin: "0 20px 20px 0",
   },
-  name: { fontWeight: "bold" },
+  name: { fontWeight: "bold", fontSize: "14px" },
   image: { width: "100%", height: "200px" },
   meet: { display: "flex", flexWrap: "wrap" },
+  title: { fontFamily: "Tourney", fontSize: "24px" },
+  mentorText: { fontSize: "12px" },
   section: {
     display: "flex",
     padding: "50px",
@@ -34,13 +37,13 @@ const data = [
     name: "Danielle Carrick",
     image: danielle,
     title: "Front-End Developer",
-    text: "I enjoy using my analytical thinking and problem solving skills to contribute to better decision-making processes. My appetite for details leads me to very exciting investigations and interesting findings every day.",
+    text: "I love building online experiences that surprise and delight users.",
   },
   {
-    name: "Narcisa Iancu",
-    image: narcisa,
-    title: "Business Analyst",
-    text: "I enjoy using my analytical thinking and problem solving skills to contribute to better decision-making processes. My appetite for details leads me to very exciting investigations and interesting findings every day.",
+    name: "Anuj Kumar Jha ",
+    image: anuj,
+    title: "Machine Learning Engineer",
+    text: "I have my expertise over both predictive modelling and best software practices used for MLOps.",
   },
   {
     name: "Narcisa Iancu",
@@ -59,7 +62,7 @@ const data = [
 const Mentors = ({ classes }) => {
   return (
     <section className={classes.section}>
-      <h1>Meet your Mentors</h1>
+      <h1 className={classes.title}>Meet your Mentors</h1>
       <div className={classes.meet}>
         {data.map((mentor) => {
           return (
@@ -71,9 +74,10 @@ const Mentors = ({ classes }) => {
                   backgroundSize: "cover",
                 }}
               ></div>
-              <p>
+              <p className={classes.mentorText}>
                 <span className={classes.name}>
-                  {mentor.name}, {mentor.title}
+                  {mentor.name}
+                  <br /> {mentor.title}
                 </span>
                 <br />
                 {mentor.text}
